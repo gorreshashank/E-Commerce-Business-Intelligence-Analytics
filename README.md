@@ -57,10 +57,9 @@ Business Recommendations
 
 ## Dashboard Preview
 
-Upload your dashboard screenshot and replace the path below:
+<img width="1265" height="621" alt="image" src="https://github.com/user-attachments/assets/f7346065-0f1e-43d4-98ef-0e35be1071cb" />
+<img width="1267" height="610" alt="image" src="https://github.com/user-attachments/assets/0c179602-68f3-41ed-a625-cdc78c510988" />
 
-```markdown
-![Dashboard](Dashboard/Dashboard_Screenshot.png)
 ```
 
 ## Key Insights
